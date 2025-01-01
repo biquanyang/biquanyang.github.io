@@ -1,16 +1,17 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a PhD in Theoretical Physics, at Department of Physics, Southeast University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+
+yangbq221019[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+M.E., Physics, Chongqing University, 2021—2024 (expected).\
+B.E., Applied Physics, Chongqing University of Posts and Telecommunications, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
+Tensor Network Algorithm, Integrability, Quantum Many-Body System, Nonequilibrium Statistical Physics
+
+
 
