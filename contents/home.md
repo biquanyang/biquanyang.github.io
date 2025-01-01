@@ -11,7 +11,7 @@ B.E., Applied Physics, Chongqing University of Posts and Telecommunications, 201
 
 #### Research Interests
 
-Tensor Network Algorithm, Integrability, Quantum Many-Body System, Nonequilibrium Statistical Physics
+Tensor Network Algorithm, Integrability, Quantum Many-Body System
 
 
 
